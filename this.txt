@@ -1,1 +1,2 @@
-sdfsdfsf
+This is the tutorial for GitHub demo.
+This is the first file created to show how a file can be created from scratch & can be synced later or if created in local machine, the file can be synced and will be shown here.
