@@ -48,6 +48,6 @@ From above definition some question arrises:-
                             | |_______________| |            | |________________| |
                             |___________________|            |____________________|
 Will continue,
-Thanks Harry Bhai                   
+Thank you Harry Bhai                   
                                         
                                         
