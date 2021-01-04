@@ -1,0 +1,14 @@
+ssh key generating command for windows
+
+1. $ ssh-keygen -t ed25519 -C "your_email@example.com" #by default key add in user/.ssh folder
+
+2. eval `ssh-agent -s` # evalute ssh key
+
+3.ssh-add ~/.ssh/id_ed25519 #change the file name
+
+4. copy ssh key and add in github account
+
+
+
+
+
